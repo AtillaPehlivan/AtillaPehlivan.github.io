@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Atilla</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 👨🏻‍💻 currently working on [RhPozitif](https://rhpozitif.com/)
+- 👨🏻‍💻 currently working on [B!inalyze](https://binalyze.com/)
 
-- 🙇🏻‍♂️ I'm currently learning **Rust, Go, DotNet Core**
+- 🙇🏻‍♂️ I'm currently learning **Go**
 
 - 🏙 currently living in [Eskişehir / Turkey](https://goo.gl/maps/rwvhpVpm44zPFbmm8)
 
